@@ -27,6 +27,4 @@
 
 # Social Medias<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/gervasio-artur-dombo)      
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:gervasioarthur@gmail.com)
-[![Dev.to logo](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Devto.svg)](https://dev.to/gervasio)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/gervasio-artur-dombo) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:gervasioarthur@gmail.com) [![Dev.to logo](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/gervasio)
